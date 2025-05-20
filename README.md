@@ -8,14 +8,6 @@ Meteor Mind Quiz is a sleek, interactive quiz web app built entirely with HTML a
 - HTML5 – Semantic structure and accessible markup
 - CSS3 – Styling, layout, transitions, and interactivity
 
-📂 Folder Structure
-
-meteor-mind-quiz/
-├── index.html           # Main quiz file
-├── style.css            # CSS styling
-├── assets/              # Images, fonts, preview screenshots
-└── README.txt           # This file
-
 🧠 Features
 
 - Responsive design (if implemented)
@@ -29,7 +21,7 @@ meteor-mind-quiz/
 To run the project locally:
 
 1. Clone the repository or download the ZIP:
-   git clone https://github.com/your-username/meteor-mind-quiz.git
+   git clone https://github.com/iabhishekkt/MeteorMind.git
 
 2. Open the index.html file in your browser:
    Just double-click it or right-click and choose "Open with" > Your Browser
