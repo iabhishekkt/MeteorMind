@@ -1,12 +1,13 @@
 🌠 Meteor Mind Quiz
 
-Meteor Mind Quiz is a sleek, interactive quiz web app built entirely with HTML and CSS – no JavaScript involved. It's proof that even without a single line of JS, you can still build something engaging, fun, and visually appealing.
+Meteor Mind Quiz is a sleek, interactive quiz web app built with HTML, CSS and JavaScript.
 
 
 🛠️ Built With
 
 - HTML5 – Semantic structure and accessible markup
 - CSS3 – Styling, layout, transitions, and interactivity
+- JavaScript- Funtioning
 
 🧠 Features
 
